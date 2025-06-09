@@ -1,0 +1,8 @@
+Column	Missing Values	Data Type	Unique Values	Top Value	Frequency	Outliers	Invalid Format
+customer_id	0	object	1000	CUST_0001	1		
+customer_name	0	object	1000	Customer 1	1		
+email	0	object	1000	customer1000@email.com	1		0.0
+phone	0	int64	1000	810145801	1	0.0	0.0
+city	0	object	5	Medan	216		
+registration_date	0	object	342	2025-04-21	9		
+customer_segment	0	object	3	Regular	352		

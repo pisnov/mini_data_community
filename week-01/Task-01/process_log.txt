@@ -1,0 +1,79 @@
+2025-06-09 10:13:36,225 - INFO - Starting E-commerce Data Processing
+2025-06-09 10:13:36,242 - INFO - Successfully loaded transactions.csv
+2025-06-09 10:13:36,245 - INFO - Successfully loaded products.csv
+2025-06-09 10:13:36,253 - INFO - Successfully loaded customers.csv
+2025-06-09 10:13:36,263 - INFO - Generated data quality report for transactions
+2025-06-09 10:13:36,266 - INFO - Generated data quality report for products
+2025-06-09 10:13:36,270 - INFO - Generated data quality report for customers
+2025-06-09 10:13:36,276 - INFO - Handled missing values
+2025-06-09 10:13:36,278 - INFO - Handled missing values
+2025-06-09 10:13:36,281 - INFO - Handled missing values
+2025-06-09 10:13:36,284 - INFO - Calculated Customer Lifetime Value
+2025-06-09 10:13:36,295 - ERROR - An error occurred during processing: unsupported operand type(s) for -: 'str' and 'Timestamp'
+2025-06-09 10:18:00,798 - INFO - Starting E-commerce Data Processing
+2025-06-09 10:18:00,811 - INFO - Successfully loaded transactions.csv
+2025-06-09 10:18:00,813 - INFO - Successfully loaded products.csv
+2025-06-09 10:18:00,818 - INFO - Successfully loaded customers.csv
+2025-06-09 10:18:00,824 - INFO - Generated data quality report for transactions
+2025-06-09 10:18:00,826 - INFO - Generated data quality report for products
+2025-06-09 10:18:00,829 - INFO - Generated data quality report for customers
+2025-06-09 10:18:00,834 - INFO - Handled missing values
+2025-06-09 10:18:00,837 - INFO - Handled missing values
+2025-06-09 10:18:00,839 - INFO - Handled missing values
+2025-06-09 10:18:00,842 - INFO - Calculated Customer Lifetime Value
+2025-06-09 10:18:00,973 - INFO - Created RFM segments
+2025-06-09 10:18:00,984 - INFO - Calculated product performance metrics
+2025-06-09 10:18:01,001 - INFO - Generated monthly sales aggregation
+2025-06-09 10:18:01,002 - INFO - E-commerce Data Processing Completed Successfully
+2025-06-09 11:37:33,664 - INFO - Starting E-commerce Data Processing
+2025-06-09 11:37:33,683 - INFO - Successfully loaded transactions.csv
+2025-06-09 11:37:33,685 - INFO - Successfully loaded products.csv
+2025-06-09 11:37:33,692 - INFO - Successfully loaded customers.csv
+2025-06-09 11:37:33,754 - INFO - Generated data quality report for transactions
+2025-06-09 11:37:33,754 - INFO - Summary for transactions:
+2025-06-09 11:37:33,755 - INFO -   Missing Values: 0
+2025-06-09 11:37:33,755 - INFO -   Duplicate Rows: 0
+2025-06-09 11:37:33,757 - INFO -   Columns with Outliers: ['total_amount']
+2025-06-09 11:37:33,758 - INFO -   Columns with Invalid Formats: []
+2025-06-09 11:37:33,777 - INFO - Generated data quality report for products
+2025-06-09 11:37:33,777 - INFO - Summary for products:
+2025-06-09 11:37:33,778 - INFO -   Missing Values: 0
+2025-06-09 11:37:33,778 - INFO -   Duplicate Rows: 0
+2025-06-09 11:37:33,779 - INFO -   Columns with Outliers: []
+2025-06-09 11:37:33,780 - INFO -   Columns with Invalid Formats: []
+2025-06-09 11:37:33,803 - INFO - Generated data quality report for customers
+2025-06-09 11:37:33,804 - INFO - Summary for customers:
+2025-06-09 11:37:33,804 - INFO -   Missing Values: 0
+2025-06-09 11:37:33,805 - INFO -   Duplicate Rows: 0
+2025-06-09 11:37:33,806 - INFO -   Columns with Outliers: []
+2025-06-09 11:37:33,807 - INFO -   Columns with Invalid Formats: []
+2025-06-09 11:37:33,814 - INFO - Handled missing values
+2025-06-09 11:37:33,817 - INFO - Handled missing values
+2025-06-09 11:37:33,820 - INFO - Handled missing values
+2025-06-09 11:37:33,821 - INFO - E-commerce Data Processing Completed Successfully
+2025-06-09 12:10:12,458 - INFO - Starting E-commerce Data Processing
+2025-06-09 12:10:12,480 - INFO - Successfully loaded transactions.csv
+2025-06-09 12:10:12,483 - INFO - Successfully loaded products.csv
+2025-06-09 12:10:12,490 - INFO - Successfully loaded customers.csv
+2025-06-09 12:10:12,556 - INFO - Generated data quality report for transactions
+2025-06-09 12:10:12,556 - INFO - Summary for transactions:
+2025-06-09 12:10:12,557 - INFO -   Missing Values: 0
+2025-06-09 12:10:12,557 - INFO -   Duplicate Rows: 0
+2025-06-09 12:10:12,559 - INFO -   Columns with Outliers: ['total_amount']
+2025-06-09 12:10:12,561 - INFO -   Columns with Invalid Formats: []
+2025-06-09 12:10:12,575 - INFO - Generated data quality report for products
+2025-06-09 12:10:12,575 - INFO - Summary for products:
+2025-06-09 12:10:12,575 - INFO -   Missing Values: 0
+2025-06-09 12:10:12,575 - INFO -   Duplicate Rows: 0
+2025-06-09 12:10:12,576 - INFO -   Columns with Outliers: []
+2025-06-09 12:10:12,577 - INFO -   Columns with Invalid Formats: []
+2025-06-09 12:10:12,602 - INFO - Generated data quality report for customers
+2025-06-09 12:10:12,602 - INFO - Summary for customers:
+2025-06-09 12:10:12,602 - INFO -   Missing Values: 0
+2025-06-09 12:10:12,602 - INFO -   Duplicate Rows: 0
+2025-06-09 12:10:12,603 - INFO -   Columns with Outliers: []
+2025-06-09 12:10:12,604 - INFO -   Columns with Invalid Formats: []
+2025-06-09 12:10:12,612 - INFO - Handled missing values
+2025-06-09 12:10:12,615 - INFO - Handled missing values
+2025-06-09 12:10:12,620 - INFO - Handled missing values
+2025-06-09 12:10:12,620 - INFO - E-commerce Data Processing Completed Successfully

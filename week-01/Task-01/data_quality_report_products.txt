@@ -1,0 +1,7 @@
+Column	Missing Values	Data Type	Unique Values	Top Value	Frequency	Outliers	Invalid Format
+product_id	0	object	200	PROD_0001	1		
+product_name	0	object	200	Books Product 10	1		
+category	0	object	5	Home	45		
+price	0	float64	200	12.71	1	0.0	
+stock_quantity	0	int64	86	21	8	0.0	
+supplier_id	0	object	20	SUP_019	14		

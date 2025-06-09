@@ -1,0 +1,11 @@
+Column	Missing Values	Data Type	Unique Values	Top Value	Frequency	Outliers	Invalid Format
+transaction_id	0	object	5000	TXN_000001	1		
+customer_id	0	object	994	CUST_0498	14		
+product_id	0	object	200	PROD_0119	41		
+quantity	0	int64	5	2	1039	0.0	
+unit_price	0	float64	200	347.94	41	0.0	
+discount_rate	0	float64	31	0.06	193	0.0	
+total_amount	0	float64	4548	134.08	4	70.0	
+transaction_date	0	object	30	2025-05-16	190		
+payment_method	0	object	4	Bank Transfer	1306		
+status	0	object	3	Completed	1692		
